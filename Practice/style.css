@@ -12,6 +12,7 @@
     flex-direction: column;
 }
 h3 {
+    color: black;
     font-weight: normal;
     padding: 1rem;
     transition: 0.2s;
